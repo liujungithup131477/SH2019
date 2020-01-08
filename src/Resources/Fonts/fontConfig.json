@@ -1,0 +1,16 @@
+{
+	"fonts": [
+		{
+			"fontType": "default",
+			"fileName": "Gotham-Book.otf"
+		},
+		{
+			"fontType": "Medium",
+			"fileName": "Gotham-Medium.otf"
+		},
+		{
+			"fontType": "Bold",
+			"fileName": "Gotham-Bold.otf"
+		}
+	]
+}
